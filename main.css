@@ -1,0 +1,77 @@
+#logo {
+    text-align: center;
+    background-color: blueviolet;
+    margin-top: -8px;
+    margin-right: -8px;
+    margin-left: -8px;
+}
+
+.Matematica {
+    display: inline-block;
+    padding-right: 1%;
+    padding-left: 1%;
+    border: 2px solid black;
+    background-color: blue;
+}
+
+.Portugues {
+    display: inline-block;
+    padding-right: 1%;
+    padding-left: 1%;
+    border: 2px solid black;
+    background-color: red;
+}
+
+.Quimica {
+    display: inline-block;
+    padding-right: 1%;
+    padding-left: 1%;
+    border: 2px solid black;
+    background-color: aqua;
+}
+
+.Fisica {
+    display: inline-block;
+    padding-right: 1%;
+    padding-left: 1%;
+    border: 2px solid black;
+    background-color: grey;
+}
+
+.Historia {
+    display: inline-block;
+    padding-right: 1%;
+    padding-left: 1%;
+    border: 2px solid black;
+    background-color: brown;
+}
+
+.logo-curso {
+    padding-left: 46%;
+    display: inline-block;
+    
+}
+
+.m-geral {
+    border: 1px solid black;
+}
+
+.p-geral {
+    border: 1px solid black;
+}
+
+.f-geral {
+    border: 1px solid black;
+}
+
+.q-geral {
+    border: 1px solid black;
+}
+
+.h-geral {
+    border: 1px solid black;
+}
+
+.cursos {
+    padding: 20px;
+}
